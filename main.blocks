@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=":W8`Hf2720k%7,m[0%^t" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="0yllGcw6~tMjn%LWd[@C"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="fIfGt;[`4;7jNh{tZ)e@" x="22" y="360"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="U_lr}@CCq3y[G7T=.Ye~"><value name="text"><shadow type="text" id="^Kn0la:NtIr}c|U9e!uo"><field name="TEXT">Elena</field></shadow></value></block></statement></block><block type="device_button_event" id="O_fRf98KKx))Vc_um%u%" x="20" y="477"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="AhF8T(5PwYJJ6jNB$nB$"><value name="text"><shadow type="text" id="^!pHql`O3Qql7p}OoPA9"><field name="TEXT">Muñoz Fernandez</field></shadow></value></block></statement></block></xml>
